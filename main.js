@@ -4,8 +4,6 @@ btnJogar.addEventListener('click', () => {
     location.reload()
 })
 
-
-
 const images = [
     'angular.svg',
     'aurelia.svg',

@@ -63,3 +63,28 @@ body {
     transform: rotateY(90deg);
 }
 
+
+@media (max-width:760px) {
+
+    body {
+        margin: 0;
+        padding: 0;
+    }
+
+    #botao{
+        margin-top: 0.2em;
+        font-size: 1em;
+        margin-bottom: 1em;
+        background-color:#675a10;
+        color: white;
+}
+  
+    .memory-card {
+        margin-top: 2em;
+        margin-left: 0.5em;
+        margin-right: 0.5em;
+        max-width: 4.69em;
+        max-height: 9em;
+    }
+} 
+
