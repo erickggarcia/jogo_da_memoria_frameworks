@@ -12,16 +12,14 @@ body {
 }
 
 div#caixa-botao {
-    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 
 #botao {
-    margin-top: 10px;
-    margin-bottom: 10px;
-    height: 2.5rem;   
     font-size: 2rem;
-    display: inline-block;
     background-color: #675a10;
     color: white;
 }
