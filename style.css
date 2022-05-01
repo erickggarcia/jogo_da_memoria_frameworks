@@ -18,10 +18,10 @@ div#caixa-botao {
 
 #botao {
     margin-top: 10px;
+    margin-bottom: 10px;
     height: 2.5rem;   
     font-size: 2rem;
     display: inline-block;
-    margin-bottom: 10px;
     background-color: #675a10;
     color: white;
 }
