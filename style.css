@@ -8,18 +8,21 @@
 
 body {
     height: 100vh;
-    display: flex;
     background: #e4c515;
+}
+
+div#caixa-botao {
+    text-align: center;
 }
 
 
 #botao {
-    margin-left: 25vw;
-    display: inline;
-    position: absolute;
-    width: 50vw;
-    font-size: 50px;
-    background-color:#675a10;
+    margin-top: 10px;
+    height: 2.5rem;   
+    font-size: 2rem;
+    display: inline-block;
+    margin-bottom: 10px;
+    background-color: #675a10;
     color: white;
 }
 
